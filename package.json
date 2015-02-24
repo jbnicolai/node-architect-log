@@ -14,7 +14,7 @@
     ]
   },
   "dependencies": {
-    "chalk": "^0.5.1",
+    "chalk": "^1.0.0",
     "debug": "^2.1.1"
   },
   "devDependencies": {
